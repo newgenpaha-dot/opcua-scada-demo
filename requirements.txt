@@ -1,0 +1,4 @@
+asyncua>=1.1,<3
+streamlit>=1.40
+pandas>=2.2
+pytest>=8
